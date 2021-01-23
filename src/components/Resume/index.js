@@ -14,6 +14,8 @@ function Resume() {
       <h1 id="resume">Marketable Skills</h1>
       <div>
      <button> <a className="download" style={buttonStyle} href={resume} download>Download Resume</a> </button>
+
+     
         <ul>
           <li>Mature, Teacher, Web Developer, Accountant</li>
           <li>Full Stack Web Developer</li>
@@ -42,6 +44,11 @@ function Resume() {
     </section>
     
   );
+
 }
+
+
+
+
 
 export default Resume;

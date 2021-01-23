@@ -1,10 +1,10 @@
 footer{
   color: lightgoldenrodyellow;
-  background: rgb(51, 45, 40);
+  background: #1f1a1a;
   padding-top: 1cm;  position: relative;
   bottom: 0;
   width: 100%;
-  border: 2px solid red;
+  border: 2px solid #fa7538;
   text-align: center;
   display: flex;
   justify-content: space-evenly;

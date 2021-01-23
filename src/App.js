@@ -9,6 +9,8 @@ import Footer from './components/Footer';
 import './Footer.css';
 import './Title.css'
 import './App.css';
+import Projects from './components/Projects';
+
 
 
 
@@ -25,6 +27,9 @@ function App() {
     
     { name: 'resume',
       description: <Resume></Resume> },
+
+      {name: 'Projects',
+    description: <Projects></Projects>}
 
     
   ]);

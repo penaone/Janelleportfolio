@@ -6,8 +6,8 @@ main {
 }
 :root {
   --primary: #dd2514;
-  --secondary: #9c6215;
-  --tertiary: #221917;
+  --secondary: #cae3cd;
+  --tertiary: #392b58;
   --light: #a31111;
   --dark: #0e171b;
   --darker: #111111;
@@ -218,9 +218,9 @@ textarea {
   padding-right: var(--spacing-one);
   padding-left: var(--spacing-one);
   border-radius: 20px 50px;
-  background-color: black;
+  background-color: #392b58;
   color: white;
-  border: 2px solid red;
+  border: 2px solid #fa7538;
 }
 
 .px-2 {
